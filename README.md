@@ -1,5 +1,6 @@
 # projet_analyse_climatique_bigdata
 🌍 Climate DataLake – GSOD NOAA (2020-2024)
+
 📌 Objectif du projet
 
 Ce projet consiste à concevoir une architecture DataLake big data dédiée à l’ingestion, la persistance et au traitement de données climatiques issues du dataset GSOD – Global Summary of the Day (NOAA).
