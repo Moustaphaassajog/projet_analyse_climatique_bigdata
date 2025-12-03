@@ -120,7 +120,10 @@ Dashboard exploratoire, non décisionnel ou prédictif.
 📥 Prochaines améliorations possibles
 
 ✔ Ajout de visualisations cartographiques (heatmaps, densité)
+
 ✔ Intégration de librairies géospatiales (geopandas, folium…)
+
 ✔ Ajout d’un modèle de détection/prédiction climatique (ML)
+
 ✔ Automatisation complète de la pipeline (Airflow / Databricks Jobs)
 
